@@ -21,7 +21,7 @@ Lee 等人（2024）在模拟研究中发现：一个 LSTM 模型在常规测试
 
 这提示我们：如果模型将来要用于人工胰腺控制，不能只比较预测误差，还需要单独验证控制场景中的表现。该结论来自论文特定的模拟设置，不能直接推广到所有 LSTM 模型或真实患者。
 
-**参考文献**：Lee JM 等，*Shortcomings in the Evaluation of Blood Glucose Forecasting*，IEEE Transactions on Biomedical Engineering，2024。DOI：10.1109/TBME.2024.3424665。
+**参考文献**：- Lee JM 等，[*Shortcomings in the Evaluation of Blood Glucose Forecasting*](https://doi.org/10.1109/TBME.2024.3424665)，IEEE Transactions on Biomedical Engineering，2024。DOI：`10.1109/TBME.2024.3424665`。
 
 **待追问**：为什么常规测试数据上的表现，可能与控制场景中的表现不同？
 
